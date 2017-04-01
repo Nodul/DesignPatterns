@@ -1,7 +1,7 @@
 # DesignPatterns
 My take on the exercises presented in the book Head First Design Patterns, published by O'Reilly Media
 
-Auto home - Command
+Auto home - Command \n
 Barrista - Decorator
 Bird Adapter - Adapter
 Diner Merger - Iterator, Composite
