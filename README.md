@@ -1,5 +1,5 @@
 # DesignPatterns
-My take on the exercises presented in the book Head First Design Patterns, published by O'Reilly Media.
+My take on the exercises presented in the book Head First Design Patterns, published by O'Reilly Media. <br />
 The book uses Java, but I used C#
 
 * Auto home - Command <br />
