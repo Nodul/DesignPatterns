@@ -14,3 +14,6 @@ The book uses Java, but I used C#
 * Starbuzz - Template Method <br />
 * Singleton - TODO <br />
 * Proxy - TODO <br />
+
+Disclaimer:
+All code is provided AS IS and no warranty is given. This project is an educational one.
