@@ -15,5 +15,5 @@ The book uses Java, but I used C#
 * Singleton - TODO <br />
 * Proxy - TODO <br />
 
-Disclaimer:
+# Disclaimer:
 All code is provided AS IS and no warranty is given. This project is an educational one.
